@@ -1,9 +1,18 @@
 # Trading_bot_rienforcement
+System:
+- Ubuntu 16.04
+- GPU (GeForce GTX 1080 Ti)
 
 
 Instructions:
 
 In order to run the code:
+
+Make sure to clone the stable baselines repository (this is a repo that holds popular reinforcement learning algorithms, such as DeepQ, HER, A2C, etc):
+```
+cd
+git clone https://github.com/hill-a/stable-baselines.git
+```
 
 First clone the Github Repository using terminal commands.
 
