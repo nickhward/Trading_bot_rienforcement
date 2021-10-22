@@ -17,7 +17,7 @@ git clone https://github.com/hill-a/stable-baselines.git
 First clone the Github Repository using terminal commands.
 
 ```
-git clone <repository link>
+git clone https://github.com/nickhward/Trading_bot_rienforcement.git
 ```
 
 Run the setup script to install required dependencies.
